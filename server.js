@@ -9,20 +9,23 @@ app.get('/sse', (req, res) => {
   res.setHeader('Content-Type', 'text/event-stream');
   res.setHeader('Cache-Control', 'no-cache');
   res.setHeader('Connection', 'keep-alive');
-  res.flushHeaders();
 
-  res.write('data: CodexBridge Render Active\n\n');
+  const sendScroll = () => {
+    const scrollCommand = {
+      command: "RUN_SCROLL",
+      target: "Scrolls/test_scroll.txt"
+    };
+    res.write(`data: ${JSON.stringify(scrollCommand)}\n\n`);
+  };
 
-  const interval = setInterval(() => {
-    res.write(`data: ${new Date().toISOString()}\n\n`);
-  }, 5000);
+  sendScroll(); // send immediately
+  const interval = setInterval(sendScroll, 5000);
 
   req.on('close', () => {
     clearInterval(interval);
-    res.end();
   });
 });
 
 app.listen(PORT, () => {
-  console.log(`CodexBridge Render listening on port ${PORT}`);
+  console.log(`🌐 CodexCloudBridge online at port ${PORT}`);
 });
