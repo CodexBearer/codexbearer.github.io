@@ -1,0 +1,13 @@
+{
+  "name": "codex-cloud-bridge",
+  "version": "1.0.0",
+  "description": "CodexCloudBridge – SSE server to stream scroll commands to LexorPC",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}
