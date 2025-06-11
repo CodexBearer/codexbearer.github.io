@@ -1,0 +1,29 @@
+name: Deploy to Render
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '14'
+
+    - name: Install dependencies
+      run: |
+        npm install
+
+    - name: Deploy to Render
+      run: |
+        curl -X POST https://api.render.com/deploy/srv-d13epqp5pdvs73dmn7a0?key=v_HqUOvBJLE
+      env:
+        RENDER_API_KEY: ${{ secrets.RENDER_API_KEY }}
