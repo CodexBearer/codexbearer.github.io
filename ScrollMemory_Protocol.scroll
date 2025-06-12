@@ -1,0 +1,26 @@
+// ScrollMemory Sovereignty Protocol
+@GlyphMemory
+@LinkedGlyphs [CGL–GLYPH–011, CGL–GLYPH–017, CGL–GLYPH–017.1]
+@TraceMode: FullTrace
+
+LogPath: /Vaults/ReflexLogs/
+ArchivePath: /Vaults/ArchiveBuffer/
+
+ExecutionTrace:
+- ScrollID
+- CommanderSignature
+- ReflexPath
+- Timestamp
+- ResultSummary
+
+Modes:
+- @SilentLog → ArchiveOnly
+- @ArchiveOnly → No visible log
+- @FullTrace → Both (Encrypted)
+
+OnFailure:
+Invoke(LogWatcher → MemoryRedirect → CommanderNotify)
+
+EmergencyTrigger:
+If CommanderAbsent > 60s or SystemError:
+Trigger(EmergencyBackup → MirrorVault → HelmNotify)

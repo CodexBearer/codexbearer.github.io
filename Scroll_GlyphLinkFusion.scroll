@@ -1,0 +1,4 @@
+// Linkage and fusion of glyphs for continuity
+@FusionGlyph[LINK-CHAIN]
+@LinkedGlyphs [CGL–GLYPH–011, 013, 016, 017, 019]
+@FusionMode: Contiguous-Stitch

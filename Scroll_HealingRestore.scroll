@@ -1,0 +1,4 @@
+// Healing logic restoration scroll (Placeholder)
+@GlyphRestore[HEAL-017]
+@LinkedGlyphs [CGL–GLYPH–011, 013, 016, 017]
+@Mode: Structured-Recovery

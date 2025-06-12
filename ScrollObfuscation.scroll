@@ -1,0 +1,14 @@
+// ScrollObfuscation Directive
+@GlyphObfuscation
+@Tag: @Obfuscated
+@LinkedGlyphs [CGL–GLYPH–022]
+
+OutputMask: ENABLED
+ObfuscatedLogRoute: /Vaults/ObscuredLogs/
+LogEcho: [Scroll Executed — Obfuscation Active]
+
+IntentTrace:
+- Hash
+- Category
+- ExecutionTime
+- AuthorizationStamp

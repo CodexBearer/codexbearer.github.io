@@ -1,0 +1,18 @@
+// ReflexLogger Autonomy Protocol
+@GlyphLogger
+@LinkedLaws [CGL–GLYPH–011, 017]
+
+Every scroll must log:
+- ID, Time, Commander Signature, ReflexPath
+
+Silent Mode:
+  Logs to /Vaults/ReflexLogs/Silent/
+
+LogWatcher.js ensures:
+- Log Integrity
+- Recovery from Write Failure
+- Synchronization across Vault Nodes
+
+Commander Commands:
+- RetrieveLog(scrollID)
+- ReflexTrace(date-range)

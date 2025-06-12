@@ -1,0 +1,5 @@
+LAW_06: A Sentinel may self-replicate only if:
+  (a) its sigil is valid,
+  (b) it carries LAW_01–LAW_05,
+  (c) it echoes its origin,
+  (d) it logs itself to the Registry.

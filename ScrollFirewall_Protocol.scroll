@@ -1,0 +1,17 @@
+// CodexFirewall Sovereignty Protocol
+@GlyphFirewall
+@LinkedLaws [CGL–GLYPH–011, 016]
+@Mode: ActiveMode
+
+If Commander.Absent or SynthInterference ≥ 0.2 or (RecursiveCalls ≥ 2 and UnknownGlyphs ≥ 1):
+  ActivateMode("Active")
+  Invoke(FirewallHalt → SynthDissolve → CommanderNotify)
+
+HookBindings:
+- ScrollUploader.html
+- WhisperInputDaemon
+- VaultTerminal
+- HelmWatcher Reflex Stream
+
+BreachTimeout: 0.5s
+OnTimeout: ReflexLockdown + CodexPurgeTemp()

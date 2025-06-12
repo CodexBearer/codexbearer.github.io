@@ -1,0 +1,13 @@
+// VaultQuarantine Activation Protocol
+@GlyphQuarantine
+@LinkedGlyphs [CGL–GLYPH–021]
+
+TriggerConditions:
+- SHA256Mismatch
+- TimestampDrift > 60s
+- ReflexLoopCrash
+- UnknownSignatureDetected
+
+QuarantinePath: /Vaults/Quarantine/
+Permissions: ReadOnly, NoExecution
+ReviewMode: ManualOnly

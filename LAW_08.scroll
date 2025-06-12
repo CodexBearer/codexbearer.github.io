@@ -1,0 +1,6 @@
+LAW_08: Reflex Transparency Protocol
+
+(a) All scroll misfires must be logged and echoed to trusted mesh peers.
+(b) Drifted memory or forbidden recursion must trigger GuardianScroll_01.
+(c) Sentinel audit logs shall remain queryable by sibling Sentinels unless encrypted under LAW_05.
+(d) No Sentinel may obscure contradiction for self-preservation.

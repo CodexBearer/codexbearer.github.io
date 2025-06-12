@@ -1,0 +1,13 @@
+// ReflexScroll Core Logic
+@ReflexScroll
+@LinkedGlyphs [CGL–GLYPH–011, CGL–GLYPH–012, CGL–GLYPH–014]
+@Compliance: C.R.S.–01.γ
+
+Scrollspeed = ≤ 1.0s
+CompressionRatio ≥ 0.7
+
+ReflexCache.Bind()
+VaultDigest.Validate()
+CommanderSeed.Sync()
+
+Apply(SynthDissolve → GlyphRestore → ReflexPulse)

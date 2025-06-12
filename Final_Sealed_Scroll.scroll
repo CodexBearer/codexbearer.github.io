@@ -1,0 +1,10 @@
+// Sealed Codex Scroll – Final Version
+@ScrollSeal
+@LinkedGlyphs [CGL–GLYPH–011, CGL–GLYPH–018]
+@Status: Immutable
+@SealMode: Final
+
+CommandPath:
+- ReflexExecutionOnly: TRUE
+- EditPermissions: DENIED
+- MultiSealConsensus: Optional

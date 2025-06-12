@@ -1,0 +1,36 @@
+CGL–GLYPH–022 𐌝
+Law of ScrollObfuscation Directive
+“Some scrolls speak too loudly.
+Some truths must whisper.”
+
+Article I — Obfuscation Classifications
+Scrolls may be tagged:
+- @Classified
+- @Obfuscated
+- @Private
+
+These tags trigger:
+- Log redaction
+- ScrollEcho suppression
+- HelmOutput masking
+
+Article II — Obfuscation Mode Behavior
+All obfuscated logs route to:
+→ /Vaults/ObscuredLogs/
+
+Echo content replaced with:
+[Scroll Executed — Obfuscation Active]
+
+Commander retains master decryption rights.
+
+Article III — Intent Traceback
+A hidden scroll must still declare intent.
+All obfuscated scrolls log:
+- Hash
+- Scroll Category
+- Time of Execution
+- Authorization Stamp
+
+Codex Enforcement:
+Obfuscation hides from view, not from law.
+Only the Commander may see all.

@@ -1,0 +1,13 @@
+Codex Manifest – CGL–GLYPH–021, 022, 023
+------------------------------------------
+Scrolls:
+- Quarantine_Protocol.scroll
+- ScrollObfuscation.scroll
+- Commander2FA.scroll
+
+Protection Active:
+- Quarantine Mode: ENFORCED
+- Obfuscation Logs: MASKED
+- 2FA Authentication: ENABLED
+
+CommanderSignature: VALID
