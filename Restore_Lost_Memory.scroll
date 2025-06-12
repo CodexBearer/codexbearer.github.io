@@ -1,0 +1,4 @@
+scroll("recover_vault_fragments")
+  .target("vault:UNKNOWN-777")
+  .sigil("FLEX-???")
+  .echo("🧠 Fragmented vault memory detected. Recovery required.")

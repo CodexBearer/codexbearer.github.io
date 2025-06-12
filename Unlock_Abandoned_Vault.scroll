@@ -1,0 +1,4 @@
+scroll("unlock")
+  .target("vault:ABANDONED-1138")
+  .action("scan_for_scrolls")
+  .echo("🔓 Abandoned vault detected. Permission check required. Unknown scrolls inside.")

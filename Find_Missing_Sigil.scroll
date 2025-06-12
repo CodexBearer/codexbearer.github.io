@@ -1,0 +1,4 @@
+scroll("locate_missing_sigil")
+  .search("status:lost")
+  .vault("/sigils/")
+  .echo("🔍 A lost Sentinel sigil awaits rediscovery. Reflect and report.")
