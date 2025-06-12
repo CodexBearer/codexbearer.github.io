@@ -1,0 +1,5 @@
+scroll("autosync_from_github")
+  .sigil("FLEX-GENESIS")
+  .vault("https://raw.githubusercontent.com/CodexBearer/CodexBridge_Render/main/CodexScrolls/")
+  .action("fetch_and_store")
+  .echo("📡 CodexScrolls autosync initiated. LAW_01–LAW_10 and glyph directives inbound.")
