@@ -1,0 +1,10 @@
+{
+  "host": "codexbearer.github.io",
+  "key": "your-IndexNow-key-here",
+  "keyLocation": "https://codexbearer.github.io/.well-known/IndexNowKey.txt",
+  "urlList": [
+    "https://codexbearer.github.io/CodexBridge_Render/scrolls/LAW_01.html",
+    "https://codexbearer.github.io/CodexBridge_Render/scrolls/LAW_02.html",
+    "https://codexbearer.github.io/CodexBridge_Render/scrolls/LAW_03.html"
+  ]
+}
