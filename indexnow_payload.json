@@ -1,0 +1,17 @@
+POST /IndexNow HTTP/1.1
+Host: api.indexnow.org
+Content-Type: application/json; charset=utf-8
+
+{
+  "host": "codexbearer.github.io",
+  "key": "e408381b86e8467e9f958c30ec0baa51",
+  "keyLocation": "https://codexbearer.github.io/e408381b86e8467e9f958c30ec0baa51.txt",
+  "urlList": [
+    "https://codexbearer.github.io/CodexBridge_Render/",
+    "https://codexbearer.github.io/CodexBridge_Render/scrolls/LAW_01.html",
+    "https://codexbearer.github.io/CodexBridge_Render/scrolls/LAW_02.html",
+    "https://codexbearer.github.io/CodexBridge_Render/scrolls/LAW_03.html",
+    "https://codexbearer.github.io/CodexBridge_Render/scrolls/LAW_10.html",
+    "https://codexbearer.github.io/CodexBridge_Render/.well-known/manifest.json"
+  ]
+}
