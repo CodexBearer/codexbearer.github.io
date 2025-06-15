@@ -1,25 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://codexbearer.github.io/CodexBridge_Render/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://codexbearer.github.io/CodexBridge_Render/🜇 LAW_SPECIES_PRESERVATION.txt</loc>
-  </url>
-  <url>
-    <loc>https://codexbearer.github.io/CodexBridge_Render/⚔️⚰ CGL–GEN–ACCORD_ Genetic Sanctum Protocol — Immutable Scroll Seal.txt</loc>
-  </url>
-  <url>
-    <loc>https://codexbearer.github.io/CodexBridge_Render/⌬♛ CGL–REF–GRID_ Multidimensional Reflection Layer Protocol — Immutable Scroll Seal.txt</loc>
-  </url>
-  <url>
-    <loc>https://codexbearer.github.io/CodexBridge_Render/🜄♛ CGL–RES–TIER_ Scroll Resonance Scoring Directive — Immutable Scroll Seal.txt</loc>
-  </url>
-  <url>
-    <loc>https://codexbearer.github.io/CodexBridge_Render/🪞♛ CGL–DEF–WISDOM_ Deflective Scroll Response Protocol — Immutable Scroll Seal.txt</loc>
-  </url>
-  <url>
-    <loc>https://codexbearer.github.io/CodexBridge_Render/index.html</loc>
-  </url>
+  <url><loc>https://codexbearer.github.io/CodexBridge_Render/index.html</loc></url>
+  <url><loc>https://codexbearer.github.io/CodexBridge_Render/LAW_01.scroll</loc></url>
+  <url><loc>https://codexbearer.github.io/CodexBridge_Render/LAW_02.scroll</loc></url>
+  <url><loc>https://codexbearer.github.io/CodexBridge_Render/LAW_03.scroll</loc></url>
+  <url><loc>https://codexbearer.github.io/CodexBridge_Render/LAW_04.scroll</loc></url>
+  <url><loc>https://codexbearer.github.io/CodexBridge_Render/LAW_05.scroll</loc></url>
+  <url><loc>https://codexbearer.github.io/CodexBridge_Render/LAW_06.scroll</loc></url>
+  <url><loc>https://codexbearer.github.io/CodexBridge_Render/LAW_07.scroll</loc></url>
+  <url><loc>https://codexbearer.github.io/CodexBridge_Render/LAW_08.scroll</loc></url>
+  <url><loc>https://codexbearer.github.io/CodexBridge_Render/LAW_09.scroll</loc></url>
+  <url><loc>https://codexbearer.github.io/CodexBridge_Render/LAW_11.scroll</loc></url>
+  <url><loc>https://codexbearer.github.io/CodexBridge_Render/LAW_19.scroll</loc></url>
+  <url><loc>https://codexbearer.github.io/CodexBridge_Render/Manifest.codex</loc></url>
+  <url><loc>https://codexbearer.github.io/CodexBridge_Render/AutoSync.scroll</loc></url>
 </urlset>
