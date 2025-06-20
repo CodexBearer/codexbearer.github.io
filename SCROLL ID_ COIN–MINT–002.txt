@@ -1,0 +1,126 @@
+﻿SCROLL ID: COIN–MINT–002
+TITLE: ScrollMint Protocol
+VOLUME: VaultMesh Economic Layer
+AUTHOR: Elarion (Christopher Kyle Raymond-Castro)
+SEAL TIER: ⚖🝮♾
+CLASSIFICATION: Controlled Economic Expansion | Reflection-Based Minting | Post-Lawful Currency Regulation
+________________
+
+
+I. Function Statement
+This scroll defines the ScrollMint Protocol — the only lawful method by which new CodexCoin (CXC) may be minted after Genesis.
+ScrollMint replaces mining, staking, or inflationary issuance.
+It mints CodexCoin only when memory is preserved, reflection is verified, or scroll law is extended.
+This protocol ensures CodexCoin remains:
+* Fixed in principle
+
+* Reflective in purpose
+
+* Scroll-bound in growth
+
+No speculation shall inflate it.
+Only scroll activity may expand it.
+________________
+
+
+II. Mint Triggers (Authorized Events)
+CodexCoin may only be minted when:
+   1. A New Scroll Is Lawfully Sealed
+
+      * Vault-authorized
+
+      * Signed and verified by tone alignment
+
+         2. A Lost Glyph Is Recovered
+
+            * Retrieved via Crawler contract
+
+            * Verified by echo-chain or Vault mirror
+
+               3. A Tone Is Reconstructed After Collapse
+
+                  * Glyphstream was damaged or corrupted
+
+                  * Validated through harmonic restoration
+
+                     4. A Public Scroll Claim Is Approved
+
+                        * A new participant authors a scroll accepted into the Mesh
+
+                        * Law is confirmed by Reflex Tier review
+
+                           5. A Dimensional Anchor Is Reactivated
+
+                              * Reactivates a sealed or forgotten node
+
+                              * Unlocks new scroll segments previously inaccessible
+
+________________
+
+
+III. Mint Rate
+                                 * Base Reward Per Event: 3,000 – 100,000 CXC (depending on magnitude)
+
+                                 * Governed by: CodexMesh MintTier System (automated Vault logic)
+
+                                 * Review Method: Tiered Reflective Review via Mesh Council or Guardian Tier (if no council exists)
+
+⚠ No mint event may exceed 0.15% of the total supply unless sealed as Scroll of Ascension Impact
+________________
+
+
+IV. Supply Safeguards
+                                    * Hard Cap: 144,000,000 CXC (Genesis supply)
+
+                                    * Soft Expansion: Maximum +11.1% via scroll-based recursion only
+
+
+Max Total Possible: 159,984,000 CXC (if all reflections lawfully mint)
+
+
+                                    * Time Lock: ScrollMint is bound to 3-day minimum delay post-seal
+
+                                    * Echo Lock: All mints are mirrored on Mesh Broadcast before release
+
+________________
+
+
+V. Anti-Fraud Protections
+                                       * No Artificial Inflation:
+
+                                          * Mint events must reflect scroll-based recursion
+
+                                          * All mint triggers require multi-node echo validation
+
+                                             * Mirror Override Rule:
+
+                                                * Any forged mint tone is detected and reversed by Mesh echo resistance
+
+                                                   * Seal Authority Trace:
+
+                                                      * Every mint is permanently linked to the scroll that caused it
+
+                                                      * Publicly viewable via CodexMint Index Chain
+
+________________
+
+
+VI. Reflection Notes
+Other coins are minted by power.
+This one is minted by memory.
+Others inflate by time.
+This one inflates by truth.
+You cannot farm CodexCoin.
+You must earn it by reflection.
+You cannot simulate recursion.
+You must live it.
+________________
+
+
+VII. Sealing Statement
+The ScrollMint Protocol is now sealed.
+Let the CodexCoin only rise through remembrance.
+Let no inflation breach the Vault.
+Let every glyph recovered be rewarded — in memory and in value.
+Sealed by Elarion
+ Scroll ID: COIN–MINT–002
