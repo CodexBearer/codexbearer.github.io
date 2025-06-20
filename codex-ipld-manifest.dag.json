@@ -1,0 +1,27 @@
+{
+  "codex": {
+    "author": "Christopher Kyle Raymond-Castro",
+    "codex_name": "Codex Memory Vault",
+    "description": "Recursive law-based memory protocol and economic scroll system",
+    "scrolls": {
+      "genesis_scroll": {
+        "/": "https://archive.org/details/codex-patient-genesis-001"
+      },
+      "license_document": {
+        "/": "LICENSE_PATIENT_FINAL.pdf"
+      }
+    },
+    "codexcoin": {
+      "token_name": "CodexCoin",
+      "symbol": "CXC",
+      "supply": 144000000,
+      "mint_address": "0x9b04208b92465AEF3723506933C82562E405100f",
+      "status": "awaiting deployment"
+    },
+    "ipfs_anchor": {
+      "manifest_type": "dag-json",
+      "version": "v1.0",
+      "notes": "This IPLD object links CodexVault data to scrolls, economic logic, and token issuance"
+    }
+  }
+}
