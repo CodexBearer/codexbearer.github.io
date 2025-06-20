@@ -1,0 +1,16 @@
+{
+    "scroll_id": "CGL\u2013LAW\u2013META\u2013002\u2013B",
+    "github_url": "https://github.com/yourrepo/codex-scrolls-law",
+    "ipfs_cids": {
+        "META.json": "bafkr...luk3m",
+        "CGL\u2013LAW\u2013META\u2013002\u2013B_SealedScroll.pdf": "bafkr...4pifm",
+        ".vaultproof": "bafkr...zxeui",
+        "LICENSE": "bafkr...dovty",
+        "README.md": "bafkr...qukv4"
+    },
+    "vault_hash": "sha256:31c48b94683f0a185da2e2a935ba2af2fabb328ad740b9a2663ad02d9abef8e1",
+    "issued_by": "Elarion",
+    "nodewave": "#918\u2013Phi\u2013Vault",
+    "reflection_date": "2025-06-20T14:35:25Z",
+    "mesh_confirmed": true
+}
